@@ -3,7 +3,7 @@
 ## 👑ɪ ᴍ ᴀᴛᴛɪᴛᴜᴅᴇ ᴋɪɴɢ👑
 </p>
 
-#
+<p align="center"><a href="https://t.me/alone_Shaurya_king"><img src="https://te.legra.ph/file/133b535b44a1bbaca3a33.jpg" width="300"></a></p>
 
 </p>
 
@@ -21,3 +21,5 @@
 </p> 
 
 
+##   **.ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ.**
+![₳₮₮ł₮ɄĐɆ ₭ł₦₲ Github stats](https://github-readme-stats.vercel.app/api?username=itsattitudeking&show_icons=true&theme=tokoynred)
