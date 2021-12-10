@@ -32,11 +32,11 @@
 
 </p>
 
-<b>GitHub Awards</b></summary><br/>
-
+## **.ɢɪᴛʜᴜʙ ᴀᴡᴀʀᴅꜱ.**
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=ItsAttitudeking)
 
 </p>
 
+## **.ᴍᴏꜱᴛ ᴜꜱᴇᴅ ʟᴀɴɢᴜᴀɢᴇ.**
 <p align="center"><a href="https://github.com/ItsAttitudeking"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAttitudeking&theme=radical&layout=compact"></a></p>
 
