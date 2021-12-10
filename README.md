@@ -6,10 +6,10 @@
 
 </p>
 
-## 👑ɪ ᴍ ᴀᴛᴛɪᴛᴜᴅᴇ ᴋɪɴɢ👑
+## 👑ɪ'ᴍ ᴀᴛᴛɪᴛᴜᴅᴇ ᴋɪɴɢ👑
 </p>
 
-<p align="center"><a href="https://t.me/alone_Shaurya_king"><img src="https://te.legra.ph/file/133b535b44a1bbaca3a33.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/alone_Shaurya_king"><img src="https://te.legra.ph/file/bfc3e137fc23773b4cd74.jpg" width="300"></a></p>
 
 </p>
 
