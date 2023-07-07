@@ -6,7 +6,7 @@
 
 </p>
 
-## 👑ɪ'ᴍ ᴀᴛᴛɪᴛᴜᴅᴇ ᴋɪɴɢ👑
+## 👑 I'm SHAURYA PREM 👑
 </p>
 
 <p align="center"><a href="https://t.me/alone_Shaurya_king"><img src="https://te.legra.ph/file/bfc3e137fc23773b4cd74.jpg" width="300"></a></p>
@@ -30,13 +30,15 @@
 ##   **.ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ.**
 ![₳₮₮ł₮ɄĐɆ ₭ł₦₲ Github stats](https://github-readme-stats.vercel.app/api?username=itsattitudeking&show_icons=true&red=radical)
 
-</p>
-
-## **.ɢɪᴛʜᴜʙ ᴀᴡᴀʀᴅꜱ.**
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=ItsAttitudeking)
 
 </p>
 
 ## **.ᴍᴏꜱᴛ ᴜꜱᴇᴅ ʟᴀɴɢᴜᴀɢᴇ.**
 <p align="center"><a href="https://github.com/ItsAttitudeking"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAttitudeking&theme=radical&layout=compact"></a></p>
+
+</p>
+
+## **.ɢɪᴛʜᴜʙ ᴀᴡᴀʀᴅꜱ.**
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=ItsAttitudeking)
+
 
